@@ -1,0 +1,19 @@
+{
+  "container": {
+    "flex": 1,
+    "justifyContent": "center",
+    "alignItems": "center",
+    "backgroundColor": "#F4F4F4"
+  },
+  "headerLeft": {
+  	"width": 40,
+  	"height": 40,
+  	"marginLeft": 10,
+  	"borderColor": "#ccc",
+  	"borderWidth": 1,
+  	"borderRadius": 20
+  },
+  "headerRight": {
+  	"marginRight": 10,
+  }
+}
