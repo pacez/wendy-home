@@ -2,5 +2,9 @@
     {
         "merged": "/Users/pacez/Documents/code/study/wendy_s_home/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
         "source": "/Users/pacez/Documents/code/study/wendy_s_home/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/pacez/Documents/code/github/wendy-home/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/Users/pacez/Documents/code/github/wendy-home/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
     }
 ]

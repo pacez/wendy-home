@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/pacez/Documents/code/github/wendy-home/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/pacez/Documents/code/github/wendy-home/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.46.4/res/xml/preferences.xml"
+    },
+    {
         "merged": "/Users/pacez/Documents/code/study/wendy_s_home/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
         "source": "/Users/pacez/Documents/code/study/wendy_s_home/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.46.4/res/xml/preferences.xml"
     }

@@ -25,7 +25,7 @@ export default class home extends Component {
       <FadeIn>
         <Image source={wendyBg} cover="true" style={{...commonStylesObject.container,"width": 420, "height": 900}}>
           <Text style={homeStyles.welcome}>
-            Welcome to Wendy's Home !
+            Welcome to Wendy's Home!
           </Text>
           <View style={homeStyles.button}><Button title="START" onPress={this._start}/></View>
         </Image>
